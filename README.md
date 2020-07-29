@@ -7,8 +7,11 @@ pip install pyotp
 #install falcon
 pip install pyotp 
 
+# run python file and start flask serve 
 
 # Download Authentivator app from google play store or apple app store
+
+after the downloading the app call register api and generate QR Code after that scan that QR code in Authentivator app in your phone 
 
 # API for registor new user 
 
